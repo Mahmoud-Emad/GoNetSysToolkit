@@ -5,6 +5,7 @@ This repository contains a collection of projects for learning and practicing Go
 ## Project List
 
 - [tcpserver](https://github.com/Mahmoud-Emad/GoNetSysToolkit/tree/main/tcpserver): A basic `Hello World` server that listens on a specified port and returns an HTTP response to incoming connections.
+- [udpserver](https://github.com/Mahmoud-Emad/GoNetSysToolkit/tree/main/udpserver): A simple UDP echo server that listens on port 8080 and echoes back any message it receives.
 
 ## Getting Started
 
